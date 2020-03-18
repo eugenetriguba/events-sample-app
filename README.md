@@ -1,6 +1,6 @@
 # Events Sample App
 
-This is a sample events app made with Vue.
+This is a sample events app made with Vue. It is made for the purposes of learning the framework more.
 
 ![Preview](./docs/preview.png)
 
