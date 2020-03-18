@@ -1,0 +1,148 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Tim Smith",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "1",
+          "name": "Eugene Triguba"
+        },
+        {
+          "id": "2",
+          "name": "Tim Smith"
+        },
+        {
+          "id": "3",
+          "name": "George Nelson"
+        },
+        {
+          "id": "4",
+          "name": "Bob Roe"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "George Nelson",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "3",
+          "name": "George Nelson"
+        },
+        {
+          "id": "4",
+          "name": "Bob Roe"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "George Nelson",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "1",
+          "name": "Eugene Triguba"
+        },
+        {
+          "id": "3",
+          "name": "George Nelson"
+        },
+        {
+          "id": "4",
+          "name": "Bob Roe"
+        }
+      ]
+    },
+    {
+      "id": 65201449,
+      "user": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "category": "community",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "title": "working?",
+      "description": "working",
+      "location": "blahblah",
+      "date": "2020-03-04T01:09:00.000Z",
+      "time": "00:03",
+      "attendees": []
+    },
+    {
+      "id": 48719249,
+      "user": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "title": "test event",
+      "description": "test",
+      "location": "blah",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 14996579,
+      "user": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "category": "community",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "title": "another event",
+      "description": "woohoo",
+      "location": "san fran",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 73830424,
+      "user": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene Triguba"
+      },
+      "title": "bju",
+      "description": "bnj",
+      "location": "i",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
