@@ -15,6 +15,5 @@ npm run serve
 
 Then, we can serve up our mock api server by using `json-server`.
 ```
-npm install -g json-server
-json-server --watch db.json
+npm run mock-api
 ```
