@@ -7,7 +7,10 @@
       "time": "10:00",
       "location": "Daytona Beach",
       "description": "Let's clean up this beach.",
-      "organizer": "Tim Smith",
+      "organizer": {
+        "id": "2",
+        "name": "Tim Smith"
+      },
       "category": "sustainability",
       "attendees": [
         {
@@ -35,7 +38,10 @@
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
       "description": "We're going to clean up this park.",
-      "organizer": "George Nelson",
+      "organizer": {
+        "id": "3",
+        "name": "George Nelson"
+      },
       "category": "nature",
       "attendees": [
         {
@@ -55,7 +61,10 @@
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
       "description": "Help animals find new homes.",
-      "organizer": "George Nelson",
+      "organizer": {
+        "id": "3",
+        "name": "George Nelson"
+      },
       "category": "animal welfare",
       "attendees": [
         {
@@ -141,6 +150,78 @@
       "description": "bnj",
       "location": "i",
       "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 994165,
+      "user": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "category": "food",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "title": "food event",
+      "description": "nom nom nom",
+      "location": "food court",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 45276430,
+      "user": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "category": "education",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "title": "teaching sesh",
+      "description": "teach teach teach",
+      "location": "Home",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 91133357,
+      "user": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "category": "food",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "title": "food event",
+      "description": "event desc",
+      "location": "food court",
+      "date": "2020-03-04T02:55:00.000Z",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 2503406,
+      "user": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": 1,
+        "name": "Eugene"
+      },
+      "title": "housing event",
+      "description": "event",
+      "location": "Woo",
+      "date": "2020-03-04T02:59:00.000Z",
       "time": "",
       "attendees": []
     }
